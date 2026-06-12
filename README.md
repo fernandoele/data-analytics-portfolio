@@ -33,8 +33,6 @@ Excel-based ticket registry
 Microsoft Teams notifications
 Automatic ticket updates when replies are received
 
-Technologies: Power Automate, Outlook, Excel Online, Teams
-
 FAO Aquaculture Dashboard
 
 Interactive Power BI dashboard for analyzing global aquaculture production data.
