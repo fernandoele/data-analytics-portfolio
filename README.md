@@ -44,10 +44,7 @@ Species comparison
 Historical trends
 Interactive filtering and visualization
 
-Technologies: Power BI, Power Query, Excel
-
 Contact
 LinkedIn: www.linkedin.com/in/fernando-elena-b3503b232
 Email: fernandoelena805@gmail.com
-LinkedIn: www.linkedin.com/in/fernando-elena-b3503b232
-Email: fernandoelena805@gmail.com
+
